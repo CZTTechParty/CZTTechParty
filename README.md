@@ -5,6 +5,16 @@ CZTTechParty是由多名IT技术爱好者在长株潭地区组织的第一个以
 
 CZTTechParty自2013年9月开始筹备成立以来得到众多网友的支持，我们真诚的欢迎更多的IT技术爱好者加入到分享活动中来。
 
+联系我们
+-------------------------------
+官方邮箱：czttechparty@163.com
+
+订阅邮件列表：https://groups.google.com/forum/#!forum/czttechparty
+
+订阅：发送空白邮件到 czttechparty+subscribe@googlegroups.com，将收到一封邮件，点击里面的“加入此网上论坛”链接。
+
+退订：发送空白邮件到 czttechparty+unsubscribe@googlegroups.com 
+
 加入我们
 -------------------------------
 
