@@ -7,6 +7,9 @@ CZTTechParty自2013年9月开始筹备成立以来得到众多网友的支持，
 
 联系我们
 -------------------------------
+
+官方QQ群：317804274
+
 官方邮箱：czttechparty@163.com
 
 订阅邮件列表：https://groups.google.com/forum/#!forum/czttechparty
